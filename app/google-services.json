@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002103765711",
+    "project_id": "la-bancaria-2022",
+    "storage_bucket": "la-bancaria-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002103765711:android:765901babd18119cb1d5ba",
+        "android_client_info": {
+          "package_name": "com.youtics.labancamdp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002103765711-5nv6rv809nku72uo7qr0qjedt3ndmjnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7gl58QkdntYo9v6DxqwtfmfUaYhfllIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002103765711-5nv6rv809nku72uo7qr0qjedt3ndmjnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
